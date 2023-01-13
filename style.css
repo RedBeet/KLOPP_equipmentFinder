@@ -1,0 +1,6 @@
+.floor{
+    list-style-type: none;
+    float: left;
+    margin-left: 2px;
+    background-color: gray;
+}
