@@ -1,0 +1,650 @@
+.mediaViewInfo {
+	--web-view-name: Main page - 4F;
+	--web-view-id: Main_page_-_4F;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Main_page_-_4F;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Main_page_-_4F {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(242,242,242,1);
+	overflow: hidden;
+	--web-view-name: Main page - 4F;
+	--web-view-id: Main_page_-_4F;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#n__ {
+	left: 66px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 601px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(10,43,160,1);
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_2 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 576px;
+	height: 76px;
+	left: 1254px;
+	top: 48px;
+}
+#XMLID_223_ {
+	opacity: 0.8;
+	fill: rgba(0,0,0,1);
+}
+.XMLID_223_ {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 1753px;
+	top: 62px;
+	transform: matrix(1,0,0,1,0,0);
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Search_page_Normal.html;
+	cursor: pointer;
+}
+#Text {
+	left: 1294px;
+	top: 64px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	height: 26px;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(104,104,104,1);
+}
+#n_023_KLOPP_all_rights_reserve {
+	left: 66px;
+	top: 1038px;
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	height: 20px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(104,104,104,1);
+}
+#n_ {
+	left: 1725px;
+	top: 1038px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Makers.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(104,104,104,1);
+	text-decoration: underline;
+}
+#Rectangle_3 {
+	fill: rgba(242,225,141,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 192px;
+	left: 114px;
+	top: 246px;
+}
+#Rectangle_4 {
+	fill: rgba(187,187,187,1);
+	stroke: rgba(105,105,105,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1690px;
+	height: 194px;
+	left: 114px;
+	top: 438px;
+}
+#Rectangle_5 {
+	fill: rgba(187,187,187,1);
+	stroke: rgba(105,105,105,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	height: 192px;
+	left: 658px;
+	top: 246px;
+}
+#Rectangle_6 {
+	fill: rgba(187,187,187,1);
+	stroke: rgba(105,105,105,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 192px;
+	left: 467px;
+	top: 246px;
+}
+#Rectangle_7 {
+	fill: rgba(187,187,187,1);
+	stroke: rgba(105,105,105,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	height: 192px;
+	left: 837px;
+	top: 246px;
+}
+#Rectangle_8 {
+	fill: rgba(187,187,187,1);
+	stroke: rgba(105,105,105,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	height: 192px;
+	left: 114px;
+	top: 631px;
+}
+#Rectangle_9 {
+	fill: rgba(187,187,187,1);
+	stroke: rgba(105,105,105,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 192px;
+	left: 253px;
+	top: 631px;
+}
+#Rectangle_10 {
+	fill: rgba(187,187,187,1);
+	stroke: rgba(105,105,105,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	height: 192px;
+	left: 460px;
+	top: 631px;
+}
+#Rectangle_11 {
+	fill: rgba(187,187,187,1);
+	stroke: rgba(105,105,105,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 192px;
+	left: 645px;
+	top: 631px;
+}
+#Rectangle_12 {
+	fill: rgba(143,176,208,1);
+	stroke: rgba(105,105,105,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	height: 192px;
+	left: 834px;
+	top: 631px;
+}
+#Rectangle_13 {
+	fill: rgba(187,187,187,1);
+	stroke: rgba(105,105,105,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 298px;
+	height: 192px;
+	left: 1506px;
+	top: 631px;
+}
+#Text_ba {
+	left: 144px;
+	top: 709px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	height: 36px;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#n__bb {
+	left: 317px;
+	top: 691px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	height: 72px;
+	text-align: center;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#n__bc {
+	left: 513px;
+	top: 691px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	height: 72px;
+	text-align: center;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#n__bd {
+	left: 700px;
+	top: 691px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	height: 72px;
+	text-align: center;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1746px;
+	height: 2px;
+	left: 66px;
+	top: 124px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n__bf {
+	left: 523px;
+	top: 306px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	height: 72px;
+	text-align: center;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#n__bg {
+	left: 708px;
+	top: 306px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	height: 72px;
+	text-align: center;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#n___bh {
+	left: 869px;
+	top: 288px;
+	position: absolute;
+	overflow: visible;
+	width: 27px;
+	height: 108px;
+	line-height: 32px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#n___bi {
+	left: 868px;
+	top: 677px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	height: 100px;
+	line-height: 32px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#Text_bj {
+	left: 1616px;
+	top: 709px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	height: 36px;
+	text-align: center;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#Text_bk {
+	left: 182px;
+	top: 324px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	height: 36px;
+	text-align: center;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(25,25,25,1);
+}
+#Group_32 {
+	position: absolute;
+	width: 96px;
+	height: 56px;
+	left: 114px;
+	top: 879px;
+	overflow: visible;
+}
+#Group_5 {
+	position: absolute;
+	width: 96px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_14 {
+	fill: rgba(242,182,4,1);
+}
+.Rectangle_14 {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#n_F {
+	left: 32px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	height: 36px;
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Main_page___1F.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#Group_4 {
+	position: absolute;
+	width: 96px;
+	height: 56px;
+	left: 210px;
+	top: 879px;
+	overflow: visible;
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Main_page___2F.html;
+	cursor: pointer;
+}
+#Rectangle_15 {
+	fill: rgba(242,182,4,1);
+}
+.Rectangle_15 {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#n_F_br {
+	left: 30px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	height: 36px;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 96px;
+	height: 56px;
+	left: 306px;
+	top: 879px;
+	overflow: visible;
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Main_page___3F.html;
+	cursor: pointer;
+}
+#Rectangle_16 {
+	fill: rgba(242,182,4,1);
+}
+.Rectangle_16 {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#n_F_bu {
+	left: 30px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 96px;
+	height: 56px;
+	left: 402px;
+	top: 879px;
+	overflow: visible;
+}
+#Rectangle_17 {
+	fill: rgba(242,163,4,1);
+}
+.Rectangle_17 {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#n_F_bx {
+	left: 30px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(242,242,242,1);
+}
+#n_F_by {
+	left: 114px;
+	top: 189px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(25,25,25,1);
+}

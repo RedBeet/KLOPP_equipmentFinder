@@ -24,6 +24,10 @@
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
+@keyframes  {
+
+
+}
 #n__ {
 	left: 66px;
 	top: 41px;
@@ -433,6 +437,10 @@
 	left: 1694px;
 	top: 172px;
 	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: More_Detailed_Page_3.html;
+	cursor: pointer;
 }
 #Rectangle_2_bo {
 	fill: rgba(247,213,171,1);
