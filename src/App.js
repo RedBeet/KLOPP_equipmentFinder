@@ -2,6 +2,7 @@ import './App.css';
 import SEM from './img/SEM.png'
 import Comment from './comment.js'
 import db from './fb.js'
+import { ref, set } from "firebase/database";
 
 function DbControl(){
 
@@ -10,17 +11,14 @@ function DbControl(){
 
 
 function App() {
-  const labList = []
-  db.collection('equipment').get().then((ss)=>{
-    ss.forEach((doc) => {
-      labList.push(Object.assign(doc.data(), {id:doc.id}))
-  })
-  })
-  console.log(labList)
-//    db.collection('equipment').add({
-//      lab: "화학준비실"
-
-//    db.collection('equipment').doc(id).delete()
+  const labList = {
+    1: {},
+    2: {},
+    3: {},
+    4: {}
+  }
+  const reference = ref(db, 'users/')
+  set(reference, labList);
 
 
   return (
