@@ -1,12 +1,12 @@
 import './App.css';
-import SEM from './img/SEM.png';
 
 function Comment(){
+    const imgLink = ""
     return <div class="ui comments">
       <h3 class="ui dividing header">Comments</h3>
       <div class="comment">
         <a class="avatar" href="#!">
-          <img src={SEM} alt = ""></img>
+          <img src={imgLink} alt = ""></img>
         </a>
         <div class="content">
           <a class="author" href="#!">Matt</a>
@@ -23,7 +23,7 @@ function Comment(){
       </div>
       <div class="comment">
         <a class="avatar" href="#!">
-          <img src={SEM} alt = ""></img>
+          <img src={imgLink} alt = ""></img>
         </a>
         <div class="content">
           <a class="author" href="#!">Elliot Fu</a>
@@ -40,7 +40,7 @@ function Comment(){
         <div class="comments">
           <div class="comment">
             <a class="avatar" href="#!">
-              <img src={SEM} alt = ""></img>
+              <img src={imgLink} alt = ""></img>
             </a>
             <div class="content">
               <a class="author" href="#!">Jenny Hess</a>
@@ -59,7 +59,7 @@ function Comment(){
       </div>
       <div class="comment">
         <a class="avatar" href="#!">
-          <img src={SEM} alt = ""></img>
+          <img src={imgLink} alt = ""></img>
         </a>
         <div class="content">
           <a class="author" href="#!">Joe Henderson</a>
